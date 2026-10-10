@@ -2,7 +2,7 @@
 
 ### Scientific questions
 
-We seek to answer:
+We will answer the following:
 
 1. Sensitivity to features: Do the predictions change when there is feature duplication, feature rescaling, feature removal or rotation? If yes, can we restore performance with hyperparameter tuning?
 2. Representation and model selection: Can rotations result in a larger prediction error even with a close-to-optimal model chosen via cross validation?
