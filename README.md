@@ -17,7 +17,8 @@ Synthetic data (Gaussian) and 3 UCI datasets:
 - Parkinson's voice
 - Parkinson's Telemonitoring
 
-Prediction, test errors, model selection and robustness are analyzed by repeated experiments, paired confidence intervals
+
+For comparing predictions, test error, model selection, and robustness, we conduct repeated experiments (with different seeds) and use paired confidence intervals
 
 ### Team
 
