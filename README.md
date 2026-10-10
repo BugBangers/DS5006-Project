@@ -1,7 +1,6 @@
 # DS5006-Project
 
-### Same Information In, Different Model Out
-#### Understanding Representation's Effect on what classical models learn
+#### Same Information In, Different Model Out: Understanding Representation's Effect on what classical models learn
 
 ## Scientific questions
 
