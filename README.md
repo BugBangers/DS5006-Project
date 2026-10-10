@@ -1,8 +1,6 @@
-# DS5006-Project
+## Same Information In, Different Model Out: Understanding Representation's Effect on what classical models learn
 
-#### Same Information In, Different Model Out: Understanding Representation's Effect on what classical models learn
-
-## Scientific questions
+### Scientific questions
 
 We seek to answer:
 
@@ -10,7 +8,7 @@ We seek to answer:
 2. Representation and model selection: Can rotations result in a larger prediction error even with a close-to-optimal model chosen via cross validation?
 3. Cross-validation leakage: Do the predictions change when there is observation duplication, or splitting the same subject recording over folds? Effect on model selection and generalization?
 
-## Methodology
+### Methodology
 
 We explore 15 classical learning models including linear regression, Ridge, Lasso, Elastic Net, SVMs, k-NN, Decision Trees, random forests, PCA, k-means
 
@@ -21,7 +19,7 @@ Synthetic data (Gaussian) and 3 UCI datasets:
 
 Prediction, test errors, model selection and robustness are analyzed by repeated experiments, paired confidence intervals
 
-## Team
+### Team
 
 [Akarapu Shyam Satya Siva Prasad](https://github.com/SHYAMAKARAPU)
 [Ben George](https://github.com/beeegee)
