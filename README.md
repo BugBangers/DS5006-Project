@@ -22,9 +22,11 @@ For comparing predictions, test error, model selection, and robustness, we condu
 
 ### Team
 
-[Akarapu Shyam Satya Siva Prasad](https://github.com/SHYAMAKARAPU)
-[Ben George](https://github.com/beeegee)
-[Nandavaram Shashi Pritham](https://github.com/prithamnandavaram)
-Paltasingi Abhishek Sonu
+- [Akarapu Shyam Satya Siva Prasad](https://github.com/SHYAMAKARAPU)
+- [Ben George](https://github.com/beeegee)
+- [Nandavaram Shashi Pritham](https://github.com/prithamnandavaram)
+- Paltasingi Abhishek Sonu
+
+---
 
 Indian Institute of Technology (IIT), Palakkad
